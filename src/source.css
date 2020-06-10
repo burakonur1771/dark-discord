@@ -2052,3 +2052,7 @@ html:not(.platform-win).theme-light .item-PXvHYJ:nth-of-type(19), .platform-win.
 .emptyChannelIcon-3IXV5M {
     background-color: #292929;
 }
+
+.theme-dark .iconWrapper-3LVgIo {
+    background: #292929;
+}
