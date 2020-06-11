@@ -757,3 +757,7 @@ html:not(.platform-win).theme-light .item-PXvHYJ:nth-of-type(19) {
 .theme-dark .iconWrapper-3LVgIo {
     background: var(--background-accent);
 }
+
+.theme-dark .divider-23swzi {
+    background-color: var(--background-accent);
+}
