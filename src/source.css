@@ -711,8 +711,8 @@ html:not(.platform-win).theme-light .item-PXvHYJ:nth-of-type(19) {
     background-color: var(--background-accent);
 }
 
-.tierMarkerSelectable-3t7r2q {
-    background: var(--background-tertiary) !important;
+.tierMarkerAccomplished-2MiXeg, .tierMarkerInProgress-24LMzJ {
+    background: var(--background-primary) !important;
 }
 
 .theme-dark .tierHeaderLocked-1s2JJz {
