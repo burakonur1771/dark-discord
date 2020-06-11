@@ -1,4 +1,4 @@
-:root {
+:root, .theme-light {
     --background-primary: #141414 !important;
     --background-secondary: #111111 !important;
     --background-secondary-alt: #292929 !important;
@@ -561,4 +561,30 @@
 
 .theme-dark .searchAnswer-3Dz2-q, .theme-dark .searchFilter-2ESiM3 {
     background-color: var(--background-accent);
+}
+
+.theme-light .action-1lSjCi {
+    border-color: rgba(0,0,0,.1);
+    background: var(--background-tertiary);
+}
+
+.colorStandard-2KCXvj {
+    color: lightgray;
+}
+
+.header-3ZP1MY {
+    color: lightgray;
+}
+
+.input-1mgnkM {
+    color: white !important;
+    border-bottom-color: #e3e5e8 !important;
+}
+
+.cancelButton-RGXhAE {
+    color: white !important;
+}
+
+.description-QF3836 {
+    color: white !important;
 }
