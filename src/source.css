@@ -696,3 +696,37 @@ html:not(.platform-win).theme-light .item-PXvHYJ:nth-of-type(19) {
     background: var(--background-tertiary) !important;
     border: 1px solid black !important;
 }
+
+.theme-dark .perksModal-fSYqOq {
+    background-image: url("/assets/c486dc6….svg");
+    background-color: var(--background-tertiary);
+}
+
+.theme-dark .barBackground-2EEiLw {
+    background-color: var(--background-accent);
+}
+
+.theme-light .input-UJ9Tr3 {
+    color: lightgray;
+    border-bottom-color: lightgray;
+}
+
+.theme-dark .tierBody-16Chc9 {
+    background-color: var(--background-secondary);
+}
+
+.theme-dark .tierMarkerBackground-3q29am {
+    background-color: var(--background-accent);
+}
+
+.tierMarkerSelectable-3t7r2q {
+    background: var(--background-tertiary) !important;
+}
+
+.theme-dark .tierHeaderLocked-1s2JJz {
+    background-color: var(--background-primary);
+}
+
+.theme-dark .perk-2WeBWW {
+    background-color: var(--background-accent);
+}
