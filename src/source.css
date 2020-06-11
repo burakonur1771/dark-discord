@@ -761,3 +761,7 @@ html:not(.platform-win).theme-light .item-PXvHYJ:nth-of-type(19) {
 .theme-dark .divider-23swzi {
     background-color: var(--background-accent);
 }
+
+.blockquoteDivider-2hH8H6 {
+    background-color: var(--background-accent);
+}
