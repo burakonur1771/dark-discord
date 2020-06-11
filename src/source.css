@@ -151,6 +151,7 @@
 .theme-dark .lookFilled-1Gx00P.colorPrimary-3b3xI6 {
     background-color: var(--background-secondary-alt);
 }
+
 .theme-dark .lookFilled-1Gx00P.colorPrimary-3b3xI6:active,
 .theme-dark .lookFilled-1Gx00P.colorPrimary-3b3xI6:hover {
     background-color: var(--background-accent);
@@ -222,6 +223,7 @@
 .centerButton-3CaNcJ {
     background: var(--background-secondary);
 }
+
 .centerButton-3CaNcJ:hover {
     background: var(--background-accent);
 }
@@ -258,6 +260,7 @@
 .theme-dark .container-3ayLPN {
     background-color: var(--background-secondary);
 }
+
 .theme-dark .option-96V44q:after {
     background: -webkit-gradient(linear,left top,right top,from(rgba(54,57,63,0)),color-stop(80%,var(--background-secondary)));
     background: linear-gradient(90deg,rgba(54,57,63,0),var(--background-secondary)80%);
@@ -266,6 +269,7 @@
 .theme-dark .option-96V44q.selected-rZcOL- {
     background-color: var(--background-modifier-hover);
 }
+
 .theme-dark .option-96V44q.selected-rZcOL-:after {
     background: -webkit-gradient(linear,left top,right top,from(rgba(35,38,42,0)),color-stop(50%,var(--background-modifier-hover)));
     background: linear-gradient(90deg,rgba(35,38,42,0),var(--background-modifier-hover)50%);
@@ -399,9 +403,11 @@
 .theme-dark .iconMask-3b8GzQ {
     background-color: var(--background-primary);
 }
+
 .theme-dark .inviteRow-2L02ae:hover {
     background-color: var(--background-modifier-selected);
 }
+
 .lookFilled-1Gx00P.colorGrey-2DXtkV:hover {
     background-color: var(--background-accent);
 }
@@ -467,9 +473,11 @@
     -webkit-box-shadow: 0 0 0 1px var(--background-tertiary), 0 1px 5px 0 rgba(0,0,0,.3);
     box-shadow: 0 0 0 1px var(--background-tertiary), 0 1px 5px 0 rgba(0,0,0,.3);
 }
+
 .theme-dark .selectableItem-1MP3MQ:hover {
     background-color: var(--background-modifier-hover);
 }
+
 .theme-dark .lookFilled-1Gx00P.colorPrimary-3b3xI6:disabled {
     background-color: var(--background-secondary-alt);
 }
@@ -503,6 +511,7 @@
     background-color: var(--background-secondary);
     border-color: var(--background-accent);
 }
+
 .theme-dark .calendarPicker-2yf6Ci .react-datepicker__week .react-datepicker__day:last-of-type {
     border-right-color: var(--background-tertiary);
 }
@@ -511,6 +520,7 @@
     border-top-color: var(--background-tertiary);
     border-left-color: var(--background-tertiary);
 }
+
 .theme-dark .calendarPicker-2yf6Ci .react-datepicker__day.react-datepicker__day--disabled,
 .theme-dark .calendarPicker-2yf6Ci .react-datepicker__day.react-datepicker__day--disabled:hover {
     background-color: black;
@@ -530,6 +540,7 @@
 .card-1yV8cG {
     background-color: var(--background-secondary);
 }
+
 .card-1yV8cG:hover {
     background-color: var(--background-tertiary);
 }
@@ -590,6 +601,7 @@
 .theme-dark .notice-2X5hT5 {
     background-color: black;
 }
+
 #app-mount .standardSidebarView-3F1I7i .payment-info .description-3_Ncsb,
 #app-mount .standardSidebarView-3F1I7i .paymentSourceRow-3FbcL_ .subText-V8PTt8,
 #app-mount .standardSidebarView-3F1I7i .userSettingsAccount-2eMFVR div:nth-child(2) > div:nth-child(2) > .viewBody-2Qz-jg {
@@ -597,6 +609,7 @@
     filter: blur(4px);
     opacity: 0.8;
 }
+
 #app-mount .standardSidebarView-3F1I7i .payment-info .description-3_Ncsb:hover,
 #app-mount .standardSidebarView-3F1I7i .paymentSourceRow-3FbcL_ .subText-V8PTt8:hover,
 #app-mount .standardSidebarView-3F1I7i .userSettingsAccount-2eMFVR div:nth-child(2) > div:nth-child(2) > .viewBody-2Qz-jg:hover {
@@ -604,6 +617,7 @@
     filter: none;
     opacity: 1;
 }
+
 .theme-light .layer-3QrUeG:first-of-type::before {
     content: "You need to have the dark mode enabled for this theme to work properly. To enable it, go in settings > appearance.";
     position: fixed;
@@ -622,6 +636,7 @@
     border: 3px solid #F04747;
     z-index: 2;
 }
+
 .theme-light .preview-2nSL_2.cardPrimaryOutline-29Ujqw+.marginTop40-i-78cZ .radioGroup-1GBvlr .cardPrimaryEditable-3KtE4g:first-of-type,
 .theme-light .preview-2nSL_2.cardPrimaryOutline-29Ujqw+.marginTop40-i-78cZ .radioGroup-1GBvlr .item-26Dhrx:first-of-type {
     animation: flash 1s ease infinite;
@@ -633,6 +648,7 @@
 .theme-light .app-2rEoOp .base-3dtUhz {
     overflow: visible;
 }
+
 .theme-light .app-2rEoOp .container-3baos1 > .noWrap-3jynv6 > .button-14-BFJ:nth-child(3) {
     position: fixed;
     left: 50%;
@@ -649,6 +665,7 @@
     animation: flash 1s ease infinite;
     opacity: 1;
 }
+
 .theme-light .app-2rEoOp .container-3baos1 > .noWrap-3jynv6 > .button-14-BFJ:nth-child(3)::before {
     position: absolute;
     z-index: 10000;
@@ -668,17 +685,20 @@
     color: white;
     text-align: center;
 }
+
 .theme-light .app-2rEoOp .layer-3QrUeG:first-of-type *,
 .theme-light .app-2rEoOp .layer-3QrUeG:first-of-type *::after,
 .theme-light .app-2rEoOp .layer-3QrUeG:first-of-type *::before {
     visibility: hidden !important;
 }
+
 .platform-win.theme-light .item-PXvHYJ:nth-of-type(20),
 html:not(.platform-win).theme-light .item-PXvHYJ:nth-of-type(19) {
     transition: 200ms cubic-bezier(0, 0, 0, 1);
     background: red !important;
     border: 2px solid #fff;
 }
+
 .theme-light .app-2rEoOp .layer-3QrUeG:first-of-type {
     background-size: 30%;
     background-color: var(--background-secondary) !important;
