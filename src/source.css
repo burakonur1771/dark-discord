@@ -770,3 +770,109 @@ html:not(.platform-win).theme-light .item-PXvHYJ:nth-of-type(19) {
 .theme-dark .selectorButton-wjWyGe:not(.selectorButtonSelected-336oUc):hover {
     background-color: var(--background-modifier-hover);
 }
+
+.theme-dark .hoverablePayment-Yc6mK7:hover {
+    background-color: transparent;
+}
+
+.theme-dark .expandedInfo-3kfShd {
+    background-color: var(--background-primary);
+}
+
+.theme-dark .payment-xT17Mq {
+    background-color: var(--background-secondary);
+}
+
+.theme-dark .paginator-166-09 {
+    background: var(--background-secondary);
+}
+
+.theme-dark .paymentPane-3bwJ6A {
+    background-color: var(--background-secondary);
+}
+
+.theme-dark .bottomDivider-1K9Gao {
+    border-bottom-color: var(--background-tertiary);
+}
+
+.theme-dark .pageButtonNext-V2kUq0, .theme-dark .pageButtonPrev-1Y-47D {
+    border-color: var(--background-accent);
+}
+
+.theme-dark .pageIndicator-1gAbyA {
+    border-color: var(--background-accent);
+    color: #dcddde;
+}
+
+.theme-dark .paginator-2CA79G {
+    color: white;
+}
+
+.theme-dark .paymentHeader-3QlZQi {
+    border-color: var(--background-accent);
+}
+.ace_scroller {
+    background-color: var(--background-secondary) !important;
+}
+
+.contentRegion-3nDuYy #bd-customcss-attach-controls, #bd-customcss-detach-container #bd-customcss-attach-controls {
+    background: var(--background-tertiary) !important;
+    box-shadow: 0 1px 0 0 var(--background-accent)inset !important;
+}
+
+.standardSidebarView-3F1I7i #bd-customcss-attach-controls button, .bd-detached-css-editor #bd-customcss-attach-controls button {
+    background: var(--background-secondary-alt);
+    margin: 0 0 0 10px;
+    border-radius: 3px !important;
+    border: none !important;
+}
+
+.ace-monokai .ace_gutter {
+    background: var(--background-tertiary) !important;
+}
+
+.ace-monokai {
+    background-color: var(--background-secondary) !important;
+}
+
+#bd-customcss-attach-controls .help-text .inline {
+    background: var(--background-secondary-alt) !important;
+}
+
+.standardSidebarView-3F1I7i #bd-customcss-attach-controls button:hover, .bd-detached-css-editor #bd-customcss-attach-controls button:hover {
+    background: var(--background-accent) !important;
+}
+
+.theme-dark .sectionAccountCredit-1uNhnJ, .theme-dark .subscriptionDetails-1dUmjl {
+    border-color: var(--background-accent);
+}
+
+.ace-monokai .ace_marker-layer .ace_selection {
+    background: var(--background-modifier-selected) !important;
+}
+
+#app-mount #bd-customcss-attach-controls .checkbox-group li {
+  margin-top: 0;
+}
+
+#app-mount #bd-customcss-attach-controls {
+  background: var(--background-secondary);
+  box-shadow: inset 0 0 0 100vmax var(--background-secondary);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px;
+  box-sizing: border-box;
+}
+
+#app-mount .help-text, #app-mount span[style="font-size: 10px; margin-left: 5px;"] {
+  display: none;
+}
+
+#app-mount #bd-customcss-detach-container .editor-wrapper {
+  height: calc(100% + 41px);
+}
+
+#app-mount #bd-customcss-attach-controls {
+  height: auto;
+}
