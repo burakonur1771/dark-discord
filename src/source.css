@@ -765,3 +765,7 @@ html:not(.platform-win).theme-light .item-PXvHYJ:nth-of-type(19) {
 .blockquoteDivider-2hH8H6 {
     background-color: var(--background-accent);
 }
+
+.theme-dark .selectorButton-wjWyGe:not(.selectorButtonSelected-336oUc):hover {
+    background-color: var(--background-modifier-hover);
+}
