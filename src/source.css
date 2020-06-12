@@ -847,9 +847,8 @@ html:not(.platform-win).theme-light .item-PXvHYJ:nth-of-type(19) {
     box-sizing: border-box;
 }
 
-#app-mount .help-text,
-#bd-customcss-detach-controls-button span[style="font-size: 10px;margin-left: 5px;"] {
-    display: none !important;
+#app-mount .help-text, #app-mount span[style="font-size: 10px; margin-left: 5px;"] {
+    display: none;
 }
 
 #app-mount #bd-customcss-detach-container .editor-wrapper {
