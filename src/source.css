@@ -848,7 +848,7 @@ html:not(.platform-win).theme-light .item-PXvHYJ:nth-of-type(19) {
 }
 
 #app-mount .help-text,
-#bd-customcss-detach-controls-button span[style="font-size:10px; margin-left: 5px;"] {
+#bd-customcss-detach-controls-button span[style="font-size: 10px;margin-left: 5px;"] {
     display: none !important;
 }
 
