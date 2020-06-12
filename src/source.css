@@ -912,3 +912,8 @@ html:not(.platform-win).theme-light .item-PXvHYJ:nth-of-type(19) {
 .theme-dark #bd-settings-sidebar .ui-tab-bar-item.selected {
     background-color: var(--bd-blue) !important;
 }
+
+.bd-toast {
+    background: black !important;
+    box-shadow: none !important;
+}
