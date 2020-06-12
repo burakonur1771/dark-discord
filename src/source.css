@@ -14,6 +14,7 @@
     --channeltextarea-background: var(--background-accent) !important;
     --deprecated-card-bg: rgba(0, 0, 0, 0.2) !important;
     --deprecated-card-editable-bg: rgba(0,0,0,0.1) !important;
+    --activity-card-background: var(--background-primary) !important;
     --toast-background: var(--background-primary) !important;
     --toast-header: var(--background-tertiary) !important;
     --toast-contents: var(--background-secondary) !important;
